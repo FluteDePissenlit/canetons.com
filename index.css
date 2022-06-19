@@ -195,8 +195,10 @@
 }
 @media (max-width: 650px) {
     .galery .grid .picture {
+        padding: 10px;
         height: 150px;
         width: 150px;
+        border-radius: 2px;
     }
 }
 .link-duckduckgo {
