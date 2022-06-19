@@ -195,8 +195,8 @@
 }
 @media (max-width: 650px) {
     .galery .grid .picture {
-        height: 170px;
-        width: 170px;
+        height: 150px;
+        width: 150px;
     }
 }
 .link-duckduckgo {
